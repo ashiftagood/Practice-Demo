@@ -19,7 +19,7 @@ ompiled class file
 *.rar
 
 /target/
-*/target/
+*/target/*
 .classpath
 .idea/
 .project
