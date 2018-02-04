@@ -18,8 +18,7 @@ ompiled class file
 *.tar.gz
 *.rar
 
-/target/
-*/target/*
+target/
 .classpath
 .idea/
 .project
