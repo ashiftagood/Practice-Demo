@@ -13,7 +13,7 @@
 *.tar.gz
 *.rar
 
-*/target/*
+target/*
 .classpath
 .idea/
 .project
